@@ -1,2 +1,6 @@
 *.pdf
 .vscode/*
+*.hi
+*.o
+07/StringBufEditor.exe
+07/.vscode/phoityne.log

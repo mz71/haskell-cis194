@@ -3,6 +3,7 @@
 {-# HLINT ignore "Use camelCase" #-}
 {-# LANGUAGE InstanceSigs #-}
 {-# LANGUAGE FlexibleInstances #-}
+{-# OPTIONS_GHC -Wno-missing-methods #-}
 
 fib :: Integer -> Integer
 fib 0 = 0
